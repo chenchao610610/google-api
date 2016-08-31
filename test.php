@@ -10,10 +10,10 @@
   Please ensure that you have enabled the YouTube Data API for your project. */
 
   // key ok
-  //$DEVELOPER_KEY = 'AIzaSyDOkg-u9jnhP-WnzX5WPJyV1sc5QQrtuyc';
+  //$DEVELOPER_KEY = '1AIzaSyDOkg-u9jnhP-WnzX5WPJyV1sc5QQrtuyc1';
 
   // second key
-  $DEVELOPER_KEY = 'AIzaSyAFrBbEHvO1H0AYOABJN1vXmVkxBLwIxMs';
+  $DEVELOPER_KEY = 'AIzaSyAFrBbEHvO1H011AYO1ABJN1vXmVkxBLwIxMs';
 
   $client = new Google_Client();
   $client->setDeveloperKey($DEVELOPER_KEY);
